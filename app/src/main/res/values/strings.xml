@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RootDetector</string>
+    <string name="device_is_rooted">Your device is rooted</string>
+    <string name="device_is_not_rooted">Your device is NOT rooted</string>
+</resources>
